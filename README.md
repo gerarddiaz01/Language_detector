@@ -1,4 +1,4 @@
-# Language Detector
+# Language Detector 🈯
 
 This is a beginner-friendly Python GUI application that detects the language of a given text using the langdetect library. Users type or paste any text, and the app will display the name and ISO code of the detected language. It’s fast, simple, and responsive — and designed with learners in mind.
 
@@ -6,7 +6,7 @@ What makes this project stand out is not just that it works, but how it was buil
 
 ---
 
-## Teaching Perspective
+## Teaching Perspective 📚
 
 I was learning myself while making the script, well into my third month of Python learning. This project is intentionally written with learners in mind. If you're exploring tkinter, text analysis, or GUI-based validation — you’ll find this helpful as a reference or a foundation for your own ideas.
 You can use it to:
@@ -16,15 +16,7 @@ You can use it to:
 
 ---
 
-## Project Structure
-Language_Detector/  
-├── src
-    ├──main.py    # Main script for the application 
-├── README.md     # Project documentation
-├── requirements.txt    # Dependencies
----
-
-## How to Run the Application
+## How to Run the Application 🚀
 
 1. **Install Dependencies**:
    - Install the required libraries by running the following command in your terminal:
@@ -44,7 +36,7 @@ Language_Detector/
 
 ---
 
-## Features
+## Features ✨
 
 1. **Language Detection**:
    - Detects the language of the input text and displays both the language name and its ISO 639-1 code.
@@ -66,7 +58,7 @@ Language_Detector/
 
 ---
 
-## Tools and Strategies Used
+## Tools and Strategies Used 🛠️
 
 1. **`tkinter`**:
    - Used to create the graphical user interface, including labels, buttons, and input fields.
@@ -86,7 +78,7 @@ Language_Detector/
 
 ---
 
-## Challenges Encountered and Solutions
+## Challenges Encountered and Solutions 🧩
 
 1. **Detecting Short/Invalid Inputs**:
    - Challenge: Users could enter nonsense or 1-letter inputs.
@@ -102,7 +94,7 @@ Language_Detector/
 
 ---
 
-## What I Learned
+## What I Learned 👨‍🎓
 
 This project provided an opportunity to practice and improve several important skills:
 - Built a complete GUI workflow using tkinter
@@ -115,7 +107,7 @@ This was a fast, iterative project — but one where I made sure each part taugh
 
 ---
 
-## Conclusion
+## Conclusion 📝
 
 This may be a small app, but it helped me internalize some key lessons in Python development. It’s not about flashy tools — it’s about making small things work well, learning from them, and communicating that clearly.
 
